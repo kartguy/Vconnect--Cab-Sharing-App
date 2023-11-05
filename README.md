@@ -5,7 +5,6 @@
 <img src="./screenshots/posts.JPG" width="1000" height="500">
 <img src="./screenshots/create.JPG" width="1000" height="500">
 <img src="./screenshots/userposts.JPG" width="1000" height="500">
-<img src="./screenshots/chats.JPG" width="1000" height="500">
 
 
 # Todo 
